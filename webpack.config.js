@@ -5,9 +5,9 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 module.exports = {
   entry: ['src/singleSpaEntry.js'],
   output: {
-    library: 'rh-uxd-react-app-two',
+    library: 'rh-uxd-react-app-amq-example',
     libraryTarget: 'umd',
-    filename: 'rh-uxd-react-app-two.js',
+    filename: 'rh-uxd-react-app-amq-example.js',
     path: path.resolve(__dirname, 'dist'),
   },
   module: {

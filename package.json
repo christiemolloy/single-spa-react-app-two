@@ -1,8 +1,8 @@
 {
-  "name": "rh-uxd-react-app-two",
-  "version": "0.1.7",
+  "name": "rh-uxd-react-app-amq-example",
+  "version": "0.1.12",
   "description": "React application with two example pages for be included in a single-spa application as registered app.",
-  "main": "dist/rh-uxd-react-app-two.js",
+  "main": "dist/rh-uxd-react-app-amq-example.js",
   "dependencies": {
     "@patternfly/react-core": "^4.32.1",
     "react": "16.12.0",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christiemolloy/single-spa-react-app.git"
+    "url": "git+https://github.com/christiemolloy/single-spa-react-app-two.git"
   },
   "author": "Christie molloy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/christiemolloy/single-spa-react-app/issues"
+    "url": "https://github.com/christiemolloy/single-spa-react-app-two/issues"
   },
-  "homepage": "https://github.com/christiemolloy/single-spa-react-app#readme",
+  "homepage": "https://github.com/christiemolloy/single-spa-react-app-two#readme",
   "browserslist": {
     "production": [
       ">0.2%",
